@@ -1,0 +1,25 @@
+# Windows junk
+Thumbs.db
+Desktop.ini
+.DS_Store
+
+# IDE
+.vscode/
+.idea/
+*.suo
+*.user
+
+# WorkBuddy internal cache
+.workbuddy/skills/
+.workbuddy/memory/*.db
+
+# TIA Portal binary/cache files
+IM/
+TMP/
+Logs/
+System/
+Vci/
+XRef/
+UserFiles/
+AdditionalFiles/
+src/
