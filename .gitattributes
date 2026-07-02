@@ -1,0 +1,3 @@
+# TIA Portal project files are binary — do not do line-ending conversion
+*.ap21 binary
+*.info binary
