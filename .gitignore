@@ -17,7 +17,9 @@ Desktop.ini
 IM/
 TMP/
 Logs/
-System/
+System/*
+!System/PEData.plf
+!System/PEData.idx
 Vci/
 XRef/
 UserFiles/
